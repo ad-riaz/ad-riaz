@@ -1,8 +1,8 @@
 <img align='right' src='https://raw.githubusercontent.com/ad-riaz/ad-riaz/main/octocat.gif' width='250'>
 
 ## Hello everyone 👋
-My name is Alex.
-**I am looking for a job as a junior Java developer.** 
+My name is Alex.  
+**I am looking for a job as a junior Java developer.**  
 I open to learning new technologies and getting deeper knowledge in backend development.
 
 ## ⚡ Experience
@@ -15,9 +15,9 @@ I have been studying Radiophysics for the last ten years and got the PhD in Phys
 - being involved in the organization of the annual scientific conference.
 
 And I liked it. So I realized that I want to connect my future work with coding. I started to study backend development and completed two courses in 2021–2022:
-- **Netcracker "Software Development (Java)" course**
+- **Netcracker "Software Development (Java)" course**  
 	In this course, I was involved in creation of an Android application for cycling touring. You can see the result at the [link](https://github.com/nc-bikepacker).
-- **Neoflex "Development of applications and integration solutions for the financial market sector (Java)" course** 
+- **Neoflex "Development of applications and integration solutions for the financial market sector (Java)" course**  
 	In this course, I developed a bank account management application. The code for the application can be found [here](https://github.com/edu-neoflex-bank).
 
 ## 💪 Skills
@@ -29,8 +29,7 @@ And I liked it. So I realized that I want to connect my future work with coding.
 - 💽 PostgreSQL, SQL
 
 ## 📫 Contacts
-[Telegram](https://t.me/ad_riaz)  |  [LinkedIn](https://linkedin.com/in/ad-riaz)  |  [Mail](mailto:ad.riazantsev@gmail.com)  |  [CV]()  |  [My page](https://ad-riaz.github.io/)
-
+[Telegram](https://t.me/ad_riaz)  |  [LinkedIn](https://linkedin.com/in/ad-riaz)  |  [Mail](mailto:ad.riazantsev@gmail.com)  |  [CV](https://raw.githubusercontent.com/ad-riaz/ad-riaz/main/Riazantsev%20A.%20%E2%80%93%20CV.pdf)  |  [My page](https://ad-riaz.github.io/)
 
 
 <!--
