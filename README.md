@@ -1,4 +1,4 @@
-<img align='right' src='https://raw.githubusercontent.com/ad-riaz/ad-riaz/main/octocat.gif' width='250'>
+<img align='right' src='https://raw.githubusercontent.com/ad-riaz/ad-riaz/main/octocat.gif' width='35%'>
 
 ## Hello everyone 👋
 My name is Alex.  
