@@ -29,7 +29,7 @@ And I liked it. So I realized that I want to connect my future work with coding.
 - 💽 PostgreSQL, SQL
 
 ## 📫 Contacts
-[Telegram](https://t.me/ad_riaz)  |  [LinkedIn](https://linkedin.com/in/ad-riaz)  |  [Mail](mailto:ad.riazantsev@gmail.com)  |  [CV](https://raw.githubusercontent.com/ad-riaz/ad-riaz/main/Riazantsev%20A.%20%E2%80%93%20CV.pdf)  |  [My page](https://ad-riaz.github.io/)
+[Telegram](https://t.me/ad_riaz)  |  [LinkedIn](https://linkedin.com/in/ad-riaz)  |  [Mail](mailto:ad.riazantsev@gmail.com)  |  [My page](https://ad-riaz.github.io/)
 
 
 <!--
